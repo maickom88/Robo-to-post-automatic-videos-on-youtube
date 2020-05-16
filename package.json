@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/maickom88/Robo-to-post-automatic-videos-on-youtube#readme",
   "dependencies": {
+    "algorithmia": "^0.3.10",
     "readline-sync": "^1.4.10"
   }
 }
