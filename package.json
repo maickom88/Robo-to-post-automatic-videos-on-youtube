@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maickom88/Robo-to-post-automatic-videos-on-youtube/issues"
   },
-  "homepage": "https://github.com/maickom88/Robo-to-post-automatic-videos-on-youtube#readme"
+  "homepage": "https://github.com/maickom88/Robo-to-post-automatic-videos-on-youtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
